@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @jerin-mx
+# 👋 Hi, I’m Jerin
 
 Welcome to my GitHub profile!
 
