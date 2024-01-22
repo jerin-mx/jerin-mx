@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 💞️ I’m actively looking for opportunities to collaborate on projects involving data mining, NLP, and AI-driven applications.
 - 📫 Reach out to me via email at jerinmx@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jerinmx).
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I'm not crunching data, I love dancing, art and listening to Taylor Swift.
+- ⚡ Fun fact: When I'm not crunching data, you'll find me expressing creativity through dance, painting vibrant scenes from my imagination, singing along at karaoke, and enjoying Taylor Swift's music.
 
 ## Professional Journey
 - 🎓 Pursuing a Master's in Data Science from Rutgers University.
