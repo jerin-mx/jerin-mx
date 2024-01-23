@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## Professional Journey
 - 🎓 Pursuing a Master's in Data Science from Rutgers University.
-- 🎓 Holder of a MicroMasters in Statistics and Data Science from MITx.
+- 🎓 Holder of a MicroMasters in Statistics and Data Science from MIT on edX.
 
 ## Technical Skills
 - 💻 Languages: Python, R, C, Java
